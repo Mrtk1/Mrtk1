@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Mrtk1
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on a game project
+- 📫 To reach me my discord user is mrtk0955_13867
+- 😄 Pronouns: Mrtk
+- ⚡ Fun fact: I already know some coding.
