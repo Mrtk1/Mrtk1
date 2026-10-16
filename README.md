@@ -10,7 +10,7 @@
                       Gaming: Minecraft, Valorant, CS2, Roblox
 </pre>
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -23,7 +23,7 @@
 
 ---
 
-### 📈 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mrtk1&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
