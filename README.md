@@ -8,8 +8,6 @@
                       Languages: JS, C#, Python, C++, HTML
                       Projects: Diary, Dictionaries, Websites, Portfolio
                       Gaming: Minecraft, Valorant, CS2, Roblox
-
-       <font color="#e06c75">███</font> <font color="#98c379">███</font> <font color="#e5c07b">███</font> <font color="#61afef">███</font> <font color="#c678dd">███</font> <font color="#56b6c2">███</font> <font color="#abb2bf">███</font>
 </pre>
 
 ### 🛠️ Tech Stack & Tools
