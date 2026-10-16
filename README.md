@@ -1,4 +1,3 @@
-<pre align="center">
           /\          mrtk@desktop
          /  \         --------------------
         /\   \        OS: Arch Linux / Windows 11 (Dual Boot)
@@ -29,6 +28,6 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KULLANICI_ADIN&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICI_ADIN&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mrtk1&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrtk1&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
 </p>
